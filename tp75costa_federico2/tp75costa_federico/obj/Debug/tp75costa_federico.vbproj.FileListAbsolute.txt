@@ -1,0 +1,29 @@
+C:\Users\AlumnoT14\AppData\Local\Temporary Projects\tp75costa_federico\bin\Debug\tp75costa_federico.exe
+C:\Users\AlumnoT14\AppData\Local\Temporary Projects\tp75costa_federico\bin\Debug\tp75costa_federico.pdb
+C:\Users\AlumnoT14\AppData\Local\Temporary Projects\tp75costa_federico\bin\Debug\tp75costa_federico.xml
+C:\Users\AlumnoT14\AppData\Local\Temporary Projects\tp75costa_federico\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\AlumnoT14\AppData\Local\Temporary Projects\tp75costa_federico\obj\Debug\tp75costa_federico.Form1.resources
+C:\Users\AlumnoT14\AppData\Local\Temporary Projects\tp75costa_federico\obj\Debug\tp75costa_federico.Resources.resources
+C:\Users\AlumnoT14\AppData\Local\Temporary Projects\tp75costa_federico\obj\Debug\tp75costa_federico.vbproj.GenerateResource.Cache
+C:\Users\AlumnoT14\AppData\Local\Temporary Projects\tp75costa_federico\obj\Debug\tp75costa_federico.exe
+C:\Users\AlumnoT14\AppData\Local\Temporary Projects\tp75costa_federico\obj\Debug\tp75costa_federico.xml
+C:\Users\AlumnoT14\AppData\Local\Temporary Projects\tp75costa_federico\obj\Debug\tp75costa_federico.pdb
+C:\Users\AlumnoT14\Documents\Visual Studio 2008\Projects\tp75costa_federico\tp75costa_federico\obj\Debug\tp75costa_federico.exe
+C:\Users\AlumnoT14\Documents\Visual Studio 2008\Projects\tp75costa_federico\tp75costa_federico\obj\Debug\tp75costa_federico.xml
+C:\Users\AlumnoT14\Documents\Visual Studio 2008\Projects\tp75costa_federico\tp75costa_federico\obj\Debug\tp75costa_federico.pdb
+E:\7mo\Lunes\tp75costa_federico2\tp75costa_federico\obj\Debug\tp75costa_federico.exe
+E:\7mo\Lunes\tp75costa_federico2\tp75costa_federico\obj\Debug\tp75costa_federico.xml
+E:\7mo\Lunes\tp75costa_federico2\tp75costa_federico\obj\Debug\tp75costa_federico.pdb
+E:\7mo\Lunes\tp75costa_federico2\tp75costa_federico\bin\Debug\tp75costa_federico.exe
+E:\7mo\Lunes\tp75costa_federico2\tp75costa_federico\bin\Debug\tp75costa_federico.pdb
+E:\7mo\Lunes\tp75costa_federico2\tp75costa_federico\bin\Debug\tp75costa_federico.xml
+E:\7mo\Lunes\tp75costa_federico2\tp75costa_federico\obj\Debug\ResolveAssemblyReference.cache
+E:\7mo\Lunes\tp75costa_federico2\tp75costa_federico\obj\Debug\tp75costa_federico.Form1.resources
+E:\7mo\Lunes\tp75costa_federico2\tp75costa_federico\obj\Debug\tp75costa_federico.Resources.resources
+E:\7mo\Lunes\tp75costa_federico2\tp75costa_federico\obj\Debug\tp75costa_federico.vbproj.GenerateResource.Cache
+I:\7mo\Lunes\tp75costa_federico2\tp75costa_federico\obj\Debug\tp75costa_federico.exe
+I:\7mo\Lunes\tp75costa_federico2\tp75costa_federico\obj\Debug\tp75costa_federico.xml
+I:\7mo\Lunes\tp75costa_federico2\tp75costa_federico\obj\Debug\tp75costa_federico.pdb
+G:\7mo\Lunes\tp75costa_federico2\tp75costa_federico\obj\Debug\tp75costa_federico.exe
+G:\7mo\Lunes\tp75costa_federico2\tp75costa_federico\obj\Debug\tp75costa_federico.xml
+G:\7mo\Lunes\tp75costa_federico2\tp75costa_federico\obj\Debug\tp75costa_federico.pdb
