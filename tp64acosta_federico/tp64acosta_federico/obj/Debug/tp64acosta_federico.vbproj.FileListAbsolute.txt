@@ -1,0 +1,23 @@
+C:\Users\PC\AppData\Local\Temporary Projects\tp64acosta_federico\bin\Debug\tp64acosta_federico.exe
+C:\Users\PC\AppData\Local\Temporary Projects\tp64acosta_federico\bin\Debug\tp64acosta_federico.pdb
+C:\Users\PC\AppData\Local\Temporary Projects\tp64acosta_federico\bin\Debug\tp64acosta_federico.xml
+C:\Users\PC\AppData\Local\Temporary Projects\tp64acosta_federico\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PC\AppData\Local\Temporary Projects\tp64acosta_federico\obj\Debug\tp64acosta_federico.Form1.resources
+C:\Users\PC\AppData\Local\Temporary Projects\tp64acosta_federico\obj\Debug\tp64acosta_federico.Resources.resources
+C:\Users\PC\AppData\Local\Temporary Projects\tp64acosta_federico\obj\Debug\tp64acosta_federico.vbproj.GenerateResource.Cache
+C:\Users\PC\AppData\Local\Temporary Projects\tp64acosta_federico\obj\Debug\tp64acosta_federico.exe
+C:\Users\PC\AppData\Local\Temporary Projects\tp64acosta_federico\obj\Debug\tp64acosta_federico.xml
+C:\Users\PC\AppData\Local\Temporary Projects\tp64acosta_federico\obj\Debug\tp64acosta_federico.pdb
+G:\7mo\Lunes\tp64acosta_federico\tp64acosta_federico\obj\Debug\tp64acosta_federico.exe
+G:\7mo\Lunes\tp64acosta_federico\tp64acosta_federico\obj\Debug\tp64acosta_federico.xml
+G:\7mo\Lunes\tp64acosta_federico\tp64acosta_federico\obj\Debug\tp64acosta_federico.pdb
+E:\7mo\Lunes\tp64acosta_federico\tp64acosta_federico\obj\Debug\tp64acosta_federico.exe
+E:\7mo\Lunes\tp64acosta_federico\tp64acosta_federico\obj\Debug\tp64acosta_federico.xml
+E:\7mo\Lunes\tp64acosta_federico\tp64acosta_federico\obj\Debug\tp64acosta_federico.pdb
+E:\7mo\Lunes\tp64acosta_federico\tp64acosta_federico\bin\Debug\tp64acosta_federico.exe
+E:\7mo\Lunes\tp64acosta_federico\tp64acosta_federico\bin\Debug\tp64acosta_federico.pdb
+E:\7mo\Lunes\tp64acosta_federico\tp64acosta_federico\bin\Debug\tp64acosta_federico.xml
+E:\7mo\Lunes\tp64acosta_federico\tp64acosta_federico\obj\Debug\ResolveAssemblyReference.cache
+E:\7mo\Lunes\tp64acosta_federico\tp64acosta_federico\obj\Debug\tp64acosta_federico.Form1.resources
+E:\7mo\Lunes\tp64acosta_federico\tp64acosta_federico\obj\Debug\tp64acosta_federico.Resources.resources
+E:\7mo\Lunes\tp64acosta_federico\tp64acosta_federico\obj\Debug\tp64acosta_federico.vbproj.GenerateResource.Cache
